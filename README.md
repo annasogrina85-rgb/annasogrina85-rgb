@@ -4,7 +4,7 @@ People and Organisational Development lead, based in Valencia, Spain.
 
 I design people systems for engineering organisations going through change: performance and levels, leadership development, and the people side of moving to AI-native ways of working. Most of my career has been spent working with R&D teams and engineers.
 
-I'm not a software engineer. I build these tools with Claude Code, because the question I work on at work is the same one I face here: what should be automated, and which decisions must stay with a person.
+I build these tools with Claude Code, because the question I work on at work is the same one I face here: what should be automated, and which decisions must stay with a person.
 
 ## Projects
 
